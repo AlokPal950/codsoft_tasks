@@ -1,0 +1,9 @@
+ID,Name,Age,Gender,City,Salary,JoiningDate
+1,Alok,22,Male,Mumbai,25000,2026-01-10
+2,Rahul,25,Male,mumbai,30000,2026-02-15
+3,Priya,23,Female,Pune,35000,2026-03-01
+4,Neha,,Female,PUNE,40000,2026-03-10
+5,Amit,28,Male,Delhi,45000,2026-04-05
+5,Amit,28,Male,Delhi,45000,2026-04-05
+6,,24,Male,Navi Mumbai,,2026-04-12
+7,Riya,twenty five,Female,Mumbai,32000,2026-05-01
