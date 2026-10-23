@@ -1,0 +1,7 @@
+[project]
+name = "project-03"
+version = "0.1.0"
+requires-python = ">=3.15"
+dependencies = [
+    "ipykernel>=7.4.0",
+]

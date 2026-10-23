@@ -1,0 +1,13 @@
+EmployeeID,Name,Department,Age,Salary,Experience,PerformanceScore
+1,Alok,IT,22,25000,1,7
+2,Rahul,IT,25,35000,3,8
+3,Priya,HR,24,30000,2,8
+4,Neha,HR,28,40000,5,9
+5,Amit,IT,30,45000,6,9
+6,Riya,Sales,26,28000,3,6
+7,Vikas,Sales,35,50000,10,8
+8,Anjali,IT,27,38000,4,8
+9,Karan,HR,29,42000,6,7
+10,Meena,Sales,24,27000,2,7
+11,Arjun,IT,32,200000,8,10
+12,Simran,Sales,31,48000,7,9
